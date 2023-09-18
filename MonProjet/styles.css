@@ -1,0 +1,18 @@
+h1 {
+   color: black;
+   border:1px solid grey;
+   width:50%;
+   
+}
+body {
+	background:#ffcc99;
+	
+
+}
+div {
+border:1px solid purple;
+margin-top:10px;
+
+width:30%;
+height:50%;
+}
